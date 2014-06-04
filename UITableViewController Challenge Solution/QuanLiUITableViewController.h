@@ -1,5 +1,5 @@
 //
-//  QuanLiViewController.h
+//  QuanLiUITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by 李泉 on 14-6-4.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface QuanLiViewController : UIViewController
+@interface QuanLiUITableViewController : UITableViewController
 
 @end
